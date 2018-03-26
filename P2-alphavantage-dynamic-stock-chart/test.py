@@ -6,7 +6,7 @@ API_URL = "https://www.alphavantage.co/query"
 data = {   "function": "TIME_SERIES_INTRADAY",
             "symbol": "aaa",
             "interval": "1min",
-            "apikey": "JXXHFGAR98XVAEX0"
+            "apikey": "XXX"
          }
 response = requests.get(API_URL, params=data)
 
