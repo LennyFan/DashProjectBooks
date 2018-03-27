@@ -6,7 +6,11 @@ data = {   "function": "TIME_SERIES_INTRADAY",
             "symbol": "GOOGL",
             "interval": "1min",
 <<<<<<< HEAD
+<<<<<<< HEAD
             "apikey": API_key
+=======
+            "apikey": "XXX"
+>>>>>>> 86b339698e607b8e84e4a4e63d596e60414083dd
 =======
             "apikey": "XXX"
 >>>>>>> 86b339698e607b8e84e4a4e63d596e60414083dd
